@@ -84,6 +84,7 @@ a{
 
 .logo{
     display: block;
+    align-items: center;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -91,8 +92,6 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    height: 24px;
-    width: 115px;
 }
 .logo-span{
     color: #2e2f42;
@@ -178,19 +177,11 @@ h6{
     display: flex;
     margin: 0;
     padding: 24px 156px;
-    justify-content: space-between;
+    align-items: center;
+     justify-content: space-between;
+    justify-content: space-around;
 }
 
 .navigation{
     display: flex;
-}
-
-.address.list{
-    display: flex;
-    gap: 20px;
-}
-
-.header .menu {
-    display: flex;
-    gap: 40px;
 }
