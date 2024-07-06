@@ -1,0 +1,147 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    background-color:#FFFFFF ;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.page-head{
+    background-color: #E7E9FC;
+}
+
+.navigation .links:focus,
+.navigation .links:hover{
+    color: #404BBF;
+}
+
+.links-adr:focus,
+.links-adr:hover{
+    color: #404bbf ;
+}
+
+.page-title{
+    font-size: 56px;
+    color: #FFFF;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.header-section{
+    background-color: #2e2f42;
+}
+
+.order-button{
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+.order-button:hover,
+.order-button:focus{
+    background-color: #404BBF;
+}
+
+.section-header{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    font-weight: 500;
+}
+
+.subtitle{
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    font-weight: 500;
+}
+
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo-span{
+    color: #2e2f42;
+
+}
+
+.links{
+    color: #2e2f42;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.links-adr{
+    color:  #434455;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.foot-section{
+    background-color: #2E2F42;
+}
+
+address{
+    font-style: normal;
+    color: #434455;
+}
+
+.subtitle-portfolio{
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    font-weight: 500;
+}
+
+.paragraf{
+    letter-spacing: 0.02em;
+}
+
+.footer-par{
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+.logo-span-foot{
+    color: #f4f4fd;
+}
+
+.our-team-section{
+    background-color: #F4F4FD;
+}
+
+.li-our-team{
+    background-color: #FFFFFF;
+}
+
+.parag{
+    font-size: 16px;
+    letter-spacing: 0.02em;
+}
