@@ -190,3 +190,8 @@ h6{
     display: flex;
     align-items: center;
 }
+
+.address{
+    display: flex; 
+    gap: 40px;
+}
