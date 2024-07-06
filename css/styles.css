@@ -114,6 +114,7 @@ a{
 
 .foot-section{
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
 address{
@@ -194,4 +195,13 @@ h6{
 .address{
     display: flex; 
     gap: 40px;
+}
+
+.container.footer{
+
+}
+
+.logo.foot{
+    display: inline-block;
+    margin-bottom: 16px;
 }
