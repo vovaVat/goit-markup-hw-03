@@ -224,6 +224,6 @@ h6{
     gap: 24px;
 }
 
-.lst.frst{
+.lst{
     width: calc((100% - 72px) / 4); 
 }
