@@ -24,6 +24,7 @@ a{
 
 .page-head{
     background-color: #E7E9FC;
+    border-bottom: 1px solid #e7e9fc
 }
 
 .navigation .links:focus,
@@ -92,6 +93,7 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
 }
 .logo-span{
     color: #2e2f42;
@@ -180,8 +182,11 @@ h6{
     align-items: center;
      justify-content: space-between;
     justify-content: space-around;
+    width: 1158px; 
+    padding: 0 15px;
 }
 
 .navigation{
     display: flex;
+    align-items: center;
 }
