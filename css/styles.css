@@ -1,3 +1,9 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -5,6 +11,7 @@ body{
     line-height: 24px;
     letter-spacing: 2%;
     background-color:#FFFFFF ;
+    margin: 0;
 }
 
 ul{
@@ -76,6 +83,7 @@ a{
 }
 
 .logo{
+    display: block;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -83,6 +91,8 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    height: 24px;
+    width: 115px;
 }
 .logo-span{
     color: #2e2f42;
@@ -144,4 +154,43 @@ address{
 .parag{
     font-size: 16px;
     letter-spacing: 0.02em;
+}
+
+img{
+    display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    margin: 0;
+}
+
+.menu{
+    display: flex;
+    gap: 40px;
+}
+
+.container.header{
+    display: flex;
+    margin: 0;
+    padding: 24px 156px;
+    justify-content: space-between;
+}
+
+.navigation{
+    display: flex;
+}
+
+.address.list{
+    display: flex;
+    gap: 20px;
+}
+
+.header .menu {
+    display: flex;
+    gap: 40px;
 }
