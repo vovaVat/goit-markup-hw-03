@@ -47,8 +47,6 @@ a{
 }
 
 .header-section{
-    background-color: #2e2f42;
-    padding: 188px 0;
 }
 
 .order-button{
@@ -80,6 +78,7 @@ a{
     color: #2e2f42;
     font-weight: 500;
     margin-bottom: 72px;
+    padding: 188px 0;
 }
 
 .subtitle{
