@@ -89,6 +89,7 @@ a{
     text-transform: capitalize;
     color: #2e2f42;
     font-weight: 500;
+    margin-bottom: 8px;
 }
 
 .logo{
@@ -221,4 +222,8 @@ h6{
 .core-list{
     display: flex;
     gap: 24px;
+}
+
+.lst.frst{
+    width: calc((100% - 72px) / 4); 
 }
