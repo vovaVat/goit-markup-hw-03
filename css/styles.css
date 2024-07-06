@@ -213,3 +213,12 @@ h6{
     display: inline-block;
     margin-bottom: 16px;
 }
+
+.core-values-section{
+    padding: 120px 0;
+}
+
+.core-list{
+    display: flex;
+    gap: 24px;
+}
