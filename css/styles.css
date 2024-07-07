@@ -290,4 +290,5 @@ ol{
 
 .visually-hidden{
     display: none;
+    margin-bottom: 72px;
 }
