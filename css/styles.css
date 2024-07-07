@@ -287,3 +287,7 @@ ol{
     padding: 0 15px;
     margin: 0 auto;
   }
+
+.visually-hidden{
+    display: none;
+}
