@@ -245,3 +245,15 @@ h6{
 .sec-container{
     padding: 32px 0;
 }
+
+.header-section{
+    padding: 120px 0 120px 0;
+}
+
+.ul-header-section{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+    
+}
