@@ -46,8 +46,9 @@ a{
     max-width: 496px;
 }
 
-.header-section{
-    padding: 120px 0 120px 0;
+.header-section-frst{
+    background-color: #2e2f42;
+    padding: 188px 0;
 }
 
 .order-button{
@@ -70,7 +71,7 @@ a{
     background-color: #404BBF;
 }
 
-.section-header{
+.section-header-h{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -79,7 +80,6 @@ a{
     color: #2e2f42;
     font-weight: 500;
     margin-bottom: 72px;
-    padding: 188px 0;
 }
 
 .subtitle{
